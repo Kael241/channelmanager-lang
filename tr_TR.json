@@ -28,7 +28,7 @@
         "roomUserAdded":        "Odanıza $1 eklendi.",
         "roomUserRemoved":      "Odanızdan $1 çıkarıldı.",
         "roomUserBlocked":      "Odanızdan $1 engellendi.",
-        "roomNoAdded":			"Hiçbir değişiklilik yapılmadı.",
+        "roomNoAdded":          "Hiçbir değişiklilik yapılmadı.",
         "roomMadePublic":       "Odanıza artık herkes katılabilir.",
         "roomNotPublic":        "Odanıza artık eklediğiniz kişiler girebilir.",
 
