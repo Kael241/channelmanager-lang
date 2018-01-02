@@ -22,7 +22,7 @@
 
         "revokeComplete":       ":cyclone: Oda Kapandı!",
         "revokeError":          ":no_good: Özel odanızı kapatılırken bir problemle karşılaşıldı.",
-        "revokeNotGuild":        "Odanızı sadece bir sunucuda kapatabilirsiniz.",
+        "revokeNotGuild":       "Odanızı sadece bir sunucuda kapatabilirsiniz.",
         "revokeNoRoom":         ":warning: Odanız yok!",
 
         "roomUserAdded":        "Odanıza $1 eklendi.",
